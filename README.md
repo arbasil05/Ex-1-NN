@@ -94,7 +94,21 @@ print("\nLenght of X_test ",len(X_test))
 
 
 ## OUTPUT:
-SHOW YOUR OUTPUT HERE
+#### MISSING VALUES :
+![image](https://github.com/user-attachments/assets/88b2a776-5778-4b4f-8e0d-6cc803ac398d)
+
+#### GRAPH :
+![image](https://github.com/user-attachments/assets/59a516f1-f14d-44ad-b5f5-1bc06d3fcd64)
+
+#### NORMALIZED DATASET :
+![image](https://github.com/user-attachments/assets/c2e55535-87ff-4c78-9c29-2b6ca9779a51)
+
+#### INPUT OUTPUT TRAINING AND TESTING :
+![image](https://github.com/user-attachments/assets/729d9c5f-6a89-453f-ac86-a4b217506705)
+
+
+
+
 
 
 ## RESULT:
